@@ -1,0 +1,13 @@
+c:\users\webba\documents\visual studio 2012\Projects\GameControlPanel\GameControlPanel\bin\Debug\GameControlPanel.exe.config
+c:\users\webba\documents\visual studio 2012\Projects\GameControlPanel\GameControlPanel\bin\Debug\GameControlPanel.exe
+c:\users\webba\documents\visual studio 2012\Projects\GameControlPanel\GameControlPanel\bin\Debug\GameControlPanel.pdb
+c:\users\webba\documents\visual studio 2012\Projects\GameControlPanel\GameControlPanel\obj\Debug\GameControlPanel.csprojResolveAssemblyReference.cache
+c:\users\webba\documents\visual studio 2012\Projects\GameControlPanel\GameControlPanel\obj\Debug\GameControlPanel.exe
+c:\users\webba\documents\visual studio 2012\Projects\GameControlPanel\GameControlPanel\obj\Debug\GameControlPanel.pdb
+E:\codeing\c# projects\GameControlPanel\GameControlPanel\bin\Debug\GameControlPanel.exe.config
+E:\codeing\c# projects\GameControlPanel\GameControlPanel\obj\Debug\GameControlPanel.exe
+E:\codeing\c# projects\GameControlPanel\GameControlPanel\obj\Debug\GameControlPanel.pdb
+E:\codeing\c# projects\GameControlPanel\GameControlPanel\obj\Debug\GameControlPanel.csprojResolveAssemblyReference.cache
+E:\codeing\c# projects\GameControlPanel\GameControlPanel\bin\Debug\GameControlPanel.exe
+E:\codeing\c# projects\GameControlPanel\GameControlPanel\bin\Debug\GameControlPanel.pdb
+E:\codeing\c# projects\GameControlPanel\GameControlPanel\bin\Debug\mysql.data.dll
